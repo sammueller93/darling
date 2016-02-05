@@ -10,7 +10,28 @@ a {
 --structure
 */
 
+.categories {
+  display: inline;
+  float: left;
+}
 
+.social {
+  display: inline;
+  float: right;
+}
+
+#one {
+  float: left;
+}
+
+.jumbotron {
+  display: inline;
+}
+
+#two {
+  transform: rotate(180deg);
+  float: right;
+}
 
 /*
 --general use
@@ -22,13 +43,11 @@ a {
 */
 
 .jumbotron img {
-  width: 160px;
-  height: 106.5px;
+  width: 160px; /*og 640 */
+  height: 106.5px; /*og 426*/
 }
 
-#two {
-  transform: rotate(180deg);
-}
+
 
 div.social img {
   width: 16px;
