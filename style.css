@@ -19,12 +19,12 @@
 --images
 */
 
-div.social {
+img div.social {
   width: 5px;
   height: 5px;
 }
 
-div.latest {
+img div.latest {
   width: 50%;
   height: auto;
 }
