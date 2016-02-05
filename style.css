@@ -2,7 +2,9 @@
 --typography
 */
 
-
+a {
+  text-decoration: none;
+}
 
 /*
 --structure
@@ -24,7 +26,7 @@
   height: 106.5px;
 }
 
-#one {
+#two {
   transform: rotate(180deg);
 }
 
