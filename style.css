@@ -19,12 +19,17 @@
 --images
 */
 
+.jumbotron img {
+  width: 106.67px;
+  height: 71px;
+}
+
 div.social img {
-  width: 12px;
-  height: 12px;
+  width: 16px;
+  height: 16px;
 }
 
 div.latest img {
-  width: 208px; /*og 624*/
-  height: 138.67px; /*og 416*/
+  width: 156px; /*og 624*/
+  height: 104px; /*og 416*/
 }
