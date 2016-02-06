@@ -45,9 +45,19 @@ a {
   padding-top; 1em;
 }
 
-.jumbotron * {
+.jumbotron {
   clear: both;
-  display: inline;
+  display: flex;
+}
+
+.jumbotron h1 {
+  position: absolute;
+  top: 0px;
+}
+
+.jumbotron h5 {
+  position: absolute;
+  bottom: 0px;
 }
 
 #two {
