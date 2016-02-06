@@ -26,6 +26,7 @@ a {
 
 .jumbotron {
   display: inline;
+  align-content: center;
 }
 
 #two {
@@ -46,8 +47,6 @@ a {
   width: 160px; /*og 640 */
   height: 106.5px; /*og 426*/
 }
-
-
 
 div.social img {
   width: 16px;
