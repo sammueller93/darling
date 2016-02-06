@@ -27,8 +27,8 @@ a {
 .categories a {
   color: black;
   padding: 2em 2em;
-  font-family: ProximaNova-Regular, sans-serif;
-  font-size: .6em;
+  font-family: "Oswald", sans-serif;
+  font-size: 10px;
   text-transform: uppercase;
 }
 
@@ -48,7 +48,22 @@ a {
 }
 
 .jumbotron {
-  align-content: center;
+  justify-content: center;
+}
+
+.jumbotron h1 {
+  vertical-align: bottom;
+  text-transform: uppercase;
+  color: #EFA2B8;
+  font-family: "IM Fell French Canon", cursive;
+  font-size: 20px;
+}
+
+.jumbotron h5 {
+  vertical-align: top;
+  font-family: "Oswald", sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
 }
 
 #two {
