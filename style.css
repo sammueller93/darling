@@ -3,7 +3,7 @@
 */
 
 body {
-  margin: 0em 2.5em;
+  margin: 1em 2.5em 0em 2.5em;
 }
 
 
@@ -43,13 +43,13 @@ a {
 
 .header {
   padding-top; 1em;
+  border-bottom-style: solid;
+  border-width: .5px;
 }
 
 .jumbotron {
-  border-top-style: solid;
-  border-width: 1px;
   clear: both;
-  display: inline-block;
+  display: inline;
 }
 
 #two {
