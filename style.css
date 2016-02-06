@@ -27,7 +27,7 @@ a {
 
 .categories a {
   color: black;
-  padding: 1em 2em;
+  padding: 2em 2em;
   font-family: ProximaNova-Regular, sans-serif;
   font-size: .5em;
   text-transform: uppercase;
@@ -40,16 +40,15 @@ a {
 }
 
 .social a {
-  padding: 1em 2em;
+  padding: 2em 2em;
 }
 
-.header {
-  border-bottom-style: 2px solid black;
-}
+
 
 .jumbotron {
   display: inline-block;
-  align-content: center;
+  align-items: center;
+  border-top-style: 2px solid black;
 }
 
 #two {
@@ -71,8 +70,8 @@ a {
 }
 
 div.social img {
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
 }
 
 div.latest img {
