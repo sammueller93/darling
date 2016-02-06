@@ -3,7 +3,7 @@
 */
 
 body {
-  margin: 0em 1.5em;
+  margin: 0em 2.5em;
 }
 
 
@@ -22,17 +22,29 @@ a {
 .categories {
   display: inline;
   float: left;
-  color: #000000;
+  margin-left: 2.5em;
+}
 
+.categories a {
+  color: black;
+  padding: 1em 2em;
+  font-family: ProximaNova-Regular, sans-serif;
+  font-size: .5em;
+  text-transform: uppercase;
 }
 
 .social {
   display: inline;
   float: right;
+  margin-right: 2.5em;
+}
+
+.social a {
+  padding: 1em 2em;
 }
 
 .header {
-  border-bottom-style: solid;
+  border-bottom-style: 2px solid black;
 }
 
 .jumbotron {
