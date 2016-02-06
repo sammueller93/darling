@@ -44,6 +44,11 @@ a {
 .header {
   padding-top; 1em;
   display: flex;
+  justify-content: space-around;
+}
+
+.jumbotron {
+  align-content: center;
 }
 
 #two {
