@@ -37,14 +37,15 @@ a {
   margin-right: 2.5em;
 }
 
-.social a {
+.header {
   padding: 2em 2em;
 }
 
 .jumbotron {
   border-top-style: solid;
-  border-width: thin;
+  border-width: 1px;
   clear: both;
+  display: inline;
 }
 
 #two {
