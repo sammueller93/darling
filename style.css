@@ -28,7 +28,7 @@ a {
   color: black;
   padding: 2em 2em;
   font-family: ProximaNova-Regular, sans-serif;
-  font-size: .5em;
+  font-size: .6em;
   text-transform: uppercase;
 }
 
@@ -43,21 +43,11 @@ a {
 
 .header {
   padding-top; 1em;
+  display: inline-block;
 }
 
 .jumbotron {
-  clear: both;
-  display: flex;
-}
-
-.jumbotron h1 {
-  position: absolute;
-  top: 0px;
-}
-
-.jumbotron h5 {
-  position: absolute;
-  bottom: 0px;
+  border: none;
 }
 
 #two {
@@ -76,6 +66,7 @@ a {
 .jumbotron img {
   width: 160px; /*og 640 */
   height: 106.5px; /*og 426*/
+  border: none;
 }
 
 div.social img {
