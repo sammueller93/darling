@@ -44,10 +44,7 @@ a {
 .jumbotron {
   border-top-style: solid;
   border-width: thin;
-}
-
-.jumbotron * {
-  align-items: center;
+  clear: both;
 }
 
 #two {
