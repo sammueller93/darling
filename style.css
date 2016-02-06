@@ -27,7 +27,7 @@ a {
 .categories a {
   color: black;
   padding: 2em 2em;
-  font-family: "Oswald", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 10px;
   text-transform: uppercase;
 }
@@ -48,6 +48,7 @@ a {
 }
 
 .jumbotron {
+  display: flex;
   justify-content: center;
 }
 
@@ -61,7 +62,7 @@ a {
 
 .jumbotron h5 {
   vertical-align: top;
-  font-family: "Oswald", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 10px;
   text-transform: uppercase;
 }
