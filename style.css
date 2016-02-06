@@ -41,10 +41,13 @@ a {
   padding: 2em 2em;
 }
 
-
-
 .jumbotron {
-  border-top-style: 2px solid black;
+  border-top-style: solid;
+  border-width: thin;
+}
+
+.jumbotron * {
+  align-items: center;
 }
 
 #two {
