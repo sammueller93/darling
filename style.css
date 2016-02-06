@@ -20,18 +20,13 @@ a {
   float: right;
 }
 
-#one {
-  float: left;
-}
-
 .jumbotron {
   display: inline;
   align-content: center;
 }
 
 #two {
-  transform: rotate(180deg);
-  float: right;
+  transform: roate(180deg);
 }
 
 /*
