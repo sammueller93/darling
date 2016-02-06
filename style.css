@@ -1,4 +1,13 @@
 /*
+--basic reset
+*/
+
+body {
+  margin: 0em 1.5em;
+}
+
+
+/*
 --typography
 */
 
@@ -13,6 +22,8 @@ a {
 .categories {
   display: inline;
   float: left;
+  color: #000000;
+
 }
 
 .social {
@@ -20,13 +31,17 @@ a {
   float: right;
 }
 
+.header {
+  border-bottom-style: solid;
+}
+
 .jumbotron {
-  display: inline;
+  display: inline-block;
   align-content: center;
 }
 
 #two {
-  transform: roate(180deg);
+  transform: rotate(180deg);
 }
 
 /*
